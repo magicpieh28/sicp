@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "slbtty.Lisp-Syntax",
+        "rheller.alive",
+        "ailisp.commonlisp-vscode",
+        "tal7aouy.icons",
+        "oliver-ni.scheme-fmt",
+        "abhi18av-vscode.chez-scheme-vscode"
+    ]
+}
