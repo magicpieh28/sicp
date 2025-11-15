@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "[scheme]": {
+    "editor.defaultFormatter": "oliver-ni.scheme-fmt"
+  },
+  "files.associations": {
+    "*.scm": "scheme"
+  }
+}
