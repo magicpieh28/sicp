@@ -5,5 +5,13 @@
   },
   "files.associations": {
     "*.scm": "scheme"
-  }
+  },
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false
 }
